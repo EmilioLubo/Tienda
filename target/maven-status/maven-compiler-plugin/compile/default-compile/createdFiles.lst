@@ -1,5 +1,7 @@
 Model/ModeloFactory.class
+Model/ModeloMYSQL.class
 Model/Modelo.class
 Model/ModeloHC.class
+Model/Conexion.class
 Control/AppServlet.class
 Model/Producto.class
